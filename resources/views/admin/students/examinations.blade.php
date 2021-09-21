@@ -1,0 +1,1 @@
+examinations.blade.php
